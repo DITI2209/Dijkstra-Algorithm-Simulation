@@ -1,0 +1,16 @@
+Team : 
+Maryam Bhinderwala - 16010420089
+Diti Divekar - 16010420091
+Ananya Warior - 16010420098
+Divya Nair - 16010420103
+
+Software : Dijkstra's Algorithm Simulator
+
+Installation:
+For Windows, Ubuntu and MacOs
+Make sure you have the Python Interpreter with the following modules installed : -sys -networkx -matplotlib
+Download the Code
+Open your terminal and run the python file (dijkstras.py)
+Start giving user input as specified.
+The graphical representation will be shown on a new window that opens up.
+
